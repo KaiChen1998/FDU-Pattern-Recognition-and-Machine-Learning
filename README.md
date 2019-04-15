@@ -4,12 +4,12 @@
 - Instructor: Xipeng Qiu
 - Head TA: Zhifeng Hu
 
-# Assignment 1: Non-parametric density estimation
+## Assignment 1: Non-parametric density estimation
 - Histogram Method
 - Kernel Denstiy Estimate
 - K Nearest Neighbours
 
-# Assignment 2: Linear Classification and Text Classification
+## Assignment 2: Linear Classification and Text Classification
 - Linear classification
 - Perceptron Model
 - Logistics Regression with softmax classifier
