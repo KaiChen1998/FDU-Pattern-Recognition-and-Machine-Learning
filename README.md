@@ -24,6 +24,5 @@
 
 - Text CNN classification model
 - Text RNN classification model
-
-- dataset: [Classify the sentiment of sentences from the Rotten Tomatoes dataset](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) from [nlp-beginner](<https://github.com/FudanNLP/nlp-beginner>)
+- Dataset: [Classify the sentiment of sentences from the Rotten Tomatoes dataset](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) from [nlp-beginner](<https://github.com/FudanNLP/nlp-beginner>)
 
