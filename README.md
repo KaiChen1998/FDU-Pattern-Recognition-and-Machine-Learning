@@ -1,6 +1,6 @@
 # PRML-Fudan
 - My assignments and reports of Pattern Recognition and Machine Learning (COMP130137.01) @ Fudan University
-  [[course website]](<http://zfhu.ac.cn/PRML-Spring19-Fudan/>) [course github repo](<https://github.com/ichn-hu/PRML-Spring19-Fudan>)
+  [[course website]](<http://zfhu.ac.cn/PRML-Spring19-Fudan/>) [[course github repo]](<https://github.com/ichn-hu/PRML-Spring19-Fudan>)
 - Instructor: [@Xipeng Qiu](https://github.com/xpqiu)
 - Head TA: [@Zhifeng Hu](https://github.com/ichn-hu)
 
