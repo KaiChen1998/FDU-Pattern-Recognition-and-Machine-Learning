@@ -35,3 +35,5 @@ Here we refer to the excellent implementation by [@changchaokun](<https://github
 - LSTM + CRF：显示控制一致性
 
 ![img](https://pic3.zhimg.com/v2-d2f81f90e43dc8e12b802b302a150bba_r.jpg)
+
+- 参考：[[link1]](<https://zhuanlan.zhihu.com/p/69890528>) & [[link2]](<https://zhuanlan.zhihu.com/p/70777941>)
